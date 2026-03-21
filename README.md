@@ -1,0 +1,46 @@
+<p align="center">
+  <img src="app-logo.png" alt="Wildflover" width="120" />
+</p>
+
+<h1 align="center">🌸 Wildflover</h1>
+
+<p align="center">
+  <b>League of Legends Skin Manager & Skin Database</b><br/>
+  <sub>League of Legends custom skin database.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-2.0.2-c94b7c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows" />
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/wildflover"><img src="https://img.shields.io/badge/Discord-Wildflover-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/syhmpire"><img src="https://img.shields.io/badge/Discord-Syhmpire-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="cuci.png" alt="Wildflover Preview" width="700" />
+</p>
+
+<p align="center">
+  <img src="cuci2.png" alt="Wildflover Screenshot" width="700" />
+</p>
+
+---
+
+## 💜 Credits
+
+| Role | Name |
+|---|---|
+| **Creator** | [wlddiscord](https://discord.gg/wildflover) |
+| **Credit** | [apatheticapp](https://discord.gg/syhmpire) |
+
+---
+
+<p align="center">
+  <sub>Made with 💜 by <b>Wildflover</b></sub><br/>
+  <sub>© 2025-2026 Wildflover. All rights reserved.</sub>
+</p>
