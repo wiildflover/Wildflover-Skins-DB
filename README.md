@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="app-logo.png" alt="Wildflover" width="120" />
-</p>
-
 <h1 align="center">Wildflover</h1>
 
 <p align="center">
@@ -19,7 +15,7 @@
 
 | Role | Name |
 |---|---|
-| **Creator** | [wlddiscord](https://discord.gg/wildflover) |
+| **App** | [wlddiscord](https://discord.gg/wildflover) |
 | **Credit** | [apatheticapp](https://discord.gg/syhmpire) |
 
 ---
