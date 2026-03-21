@@ -15,8 +15,8 @@
 
 | Role | Name |
 |---|---|
-| **Owner** | [wlddiscord](https://discord.gg/wildflover) |
-| **Credit/Designer** | [apatheticapp](https://discord.gg/syhmpire) |
+| **Owner** | [wld](https://discord.gg/wildflover) |
+| **Credit/Designer** | [apathetic](https://discord.gg/syhmpire) |
 
 ---
 
