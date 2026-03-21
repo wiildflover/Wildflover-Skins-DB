@@ -2,16 +2,10 @@
   <img src="app-logo.png" alt="Wildflover" width="120" />
 </p>
 
-<h1 align="center">🌸 Wildflover</h1>
+<h1 align="center">Wildflover</h1>
 
 <p align="center">
-  <b>League of Legends Skin Manager & Skin Database</b><br/>
-  <sub>League of Legends custom skin database.</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.2-c94b7c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows" />
+  League of Legends custom skin database.
 </p>
 
 <p align="center">
@@ -21,17 +15,7 @@
 
 ---
 
-<p align="center">
-  <img src="cuci.png" alt="Wildflover Preview" width="700" />
-</p>
-
-<p align="center">
-  <img src="cuci2.png" alt="Wildflover Screenshot" width="700" />
-</p>
-
----
-
-## 💜 Credits
+## Credits
 
 | Role | Name |
 |---|---|
@@ -41,6 +25,5 @@
 ---
 
 <p align="center">
-  <sub>Made with 💜 by <b>Wildflover</b></sub><br/>
   <sub>© 2025-2026 Wildflover. All rights reserved.</sub>
 </p>
