@@ -16,7 +16,7 @@
 | Role | Name |
 |---|---|
 | **Owner** | [wld](https://discord.gg/wildflover) |
-| **Credit/Designer** | [apath](https://discord.gg/syhmpire) |
+| **Designer** | [apath](https://discord.gg/syhmpire) |
 
 ---
 
