@@ -11,15 +11,6 @@
 
 ---
 
-## Credits
-
-| Role | Name |
-|---|---|
-| **Owner** | [wld](https://discord.gg/wildflover) |
-| **Designer** | [apath](https://discord.gg/syhmpire) |
-
----
-
 <p align="center">
   <sub>© 2025-2026 Wildflover. All rights reserved.</sub>
 </p>
